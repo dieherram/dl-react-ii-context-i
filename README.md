@@ -5,7 +5,7 @@ En este desafío, se me ha solicitado desarrollar Natural Pic, una plataforma de
 ## Capturas de Pantalla 🖼️
 
 ### Home
-![Home](./screenshots.png)
+![Home](./screenshot.png)
 
 ### Fotos con Likes en Home
 ![Fotos con Likes en Home](./screenshot-favorites-selected.png)
